@@ -11710,7 +11710,7 @@ __metadata:
     ts-jest: ^27.0.7
     ts-node: ^10.4.0
     ts-prune: ^0.10.1
-    typescript: ^4.4.4
+    typescript: ^4.9.4
     write-good: ^1.0.8
   languageName: unknown
   linkType: soft
@@ -11791,7 +11791,7 @@ __metadata:
     ts-jest: ^27.0.7
     ts-node: ^10.4.0
     ts-prune: ^0.10.1
-    typescript: ^4.4.4
+    typescript: ^4.9.4
     write-good: ^1.0.8
     xml2js: ^0.4.23
   languageName: unknown
@@ -11907,7 +11907,7 @@ __metadata:
     ts-jest: ^27.0.7
     ts-node: ^10.4.0
     ts-prune: ^0.10.1
-    typescript: ^4.4.4
+    typescript: ^4.9.4
     url-join: ^4.0.1
     write-good: ^1.0.8
   peerDependencies:
@@ -11967,7 +11967,7 @@ __metadata:
     ts-jest: ^27.0.7
     ts-node: ^10.4.0
     ts-prune: ^0.10.1
-    typescript: ^4.4.4
+    typescript: ^4.9.4
     write-good: ^1.0.8
     xml2js: ^0.4.23
   languageName: unknown
@@ -12083,7 +12083,7 @@ __metadata:
     ts-jest: ^27.0.7
     ts-node: ^10.4.0
     ts-prune: ^0.10.1
-    typescript: ^4.4.4
+    typescript: ^4.9.4
     url-join: ^4.0.1
     write-good: ^1.0.8
   peerDependencies:
@@ -25679,23 +25679,23 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-typescript@^4.4.4:
-  version: 4.4.4
-  resolution: "typescript@npm:4.4.4"
+typescript@^4.9.4:
+  version: 4.9.4
+  resolution: "typescript@npm:4.9.4"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 89ecb8436bb48ef5594d49289f5f89103071716b6e4844278f4fb3362856e31203e187a9c76d205c3f0b674d221a058fd28310dbcbcf5d95e9a57229bb5203f1
+  checksum: e782fb9e0031cb258a80000f6c13530288c6d63f1177ed43f770533fdc15740d271554cdae86701c1dd2c83b082cea808b07e97fd68b38a172a83dbf9e0d0ef9
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.4.4#~builtin<compat/typescript>":
-  version: 4.4.4
-  resolution: "typescript@patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=d8b4e7"
+"typescript@patch:typescript@^4.9.4#~builtin<compat/typescript>":
+  version: 4.9.4
+  resolution: "typescript@patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=d8b4e7"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 4a639b6886be13616582ab82abdb4ffbbf5b0458069d13c10cd5d44fc1cafa33eab005e8ac8691ad8fae249fee85844bb7d523263c4568fe9a2ca31cd3c91c3d
+  checksum: 8a0218b6fc89f1f3fa1acb20415aab070cd10f060c2bd5fc23295bdfb36f83a5c4eef32eadcc9fd4140c3517501d1cb83aca53d924346c7305d0112731e10e58
   languageName: node
   linkType: hard
 
